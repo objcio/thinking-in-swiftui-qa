@@ -9,5 +9,6 @@ Thanks!
 Florian and Chris
 
 
-**Previous streams**
-[Thinking in SwiftUI Q&A #1, June 16th 2023](https://www.youtube.com/watch?v=pYgAd-LF-UE)
+### Previous streams
+
+- [Thinking in SwiftUI Q&A #1, June 16th 2023](https://www.youtube.com/watch?v=pYgAd-LF-UE)
